@@ -1,6 +1,6 @@
 {
   "name": "gltf-pipeline",
-  "version": "3.0.4-custom",
+  "version": "3.0.4",
   "description": "Content pipeline tools for optimizing glTF assets.",
   "license": "Apache-2.0",
   "contributors": [
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "bluebird": "^3.7.2",
-    "cesium": "https://github.com/saiponethaaung/cesium-clone",
+    "cesium": "https://github.com/saiponethaaung/cesium-clone#1.83.0",
     "draco3d": "^1.4.3",
     "fs-extra": "^10.0.0",
     "mime": "^2.5.2",
