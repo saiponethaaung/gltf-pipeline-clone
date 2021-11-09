@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "bluebird": "^3.7.2",
-    "cesium": "^1.86.1",
+    "cesium": "https://github.com/saiponethaaung/cesium-clone",
     "draco3d": "^1.4.3",
     "fs-extra": "^10.0.0",
     "mime": "^2.5.2",
